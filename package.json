@@ -1,0 +1,26 @@
+{
+  "name": "simple-leaderboard",
+  "version": "1.0.0",
+  "description": "This is a simple leaderboard made using react and node",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": " "
+  },
+  "keywords": [
+    "leaderboard",
+    "nodejs",
+    "reactjs"
+  ],
+  "author": "vignesh ramesh",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "logger": "0.0.1"
+  }
+}
